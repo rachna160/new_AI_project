@@ -32,6 +32,20 @@ The goal of Smart Health is to make healthcare resource management more organize
 2. Open `index.html` in a web browser.
 3. Explore the dashboard using the available demo features.
 
+## 🔐 Demo Login Credentials
+
+Use the following demo credentials to explore the Smart Health dashboard.
+
+| Role | Username | Password |
+|---|---|---|
+| Admin | `admin` | `admin123` |
+| Doctor | `doctor` | `doctor123` |
+| Pharmacist | `pharmacist` | `pharma123` |
+| Worker | `worker` | `worker123` |
+
+**Note:** These credentials are intended for demonstration purposes only. Do not use real patient information or sensitive data in this prototype.
+
+
 ## 🌐 Live Demo
 
 Add your GitHub Pages website link here after deployment.
